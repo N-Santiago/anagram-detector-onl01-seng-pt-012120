@@ -1,5 +1,9 @@
 class Anagram 
   
-  attr_accessor :
+  attr_accessor :diaper
+  
+  initialize(diaper)
+  @diaper = diaper 
+end 
   
 end
