@@ -7,7 +7,7 @@ def initialize(word)
 end 
  
  def match
-   word_array = word.each do |word|
+   word_array = word.each do |element|
      word.split(" ").
   
 end
