@@ -8,6 +8,8 @@ end
  
  def match
    word_array = word.each do |element|
-     word.split(" ").sort == element.split("")
+     word.split("").sort == element.split("").sort 
+   end 
+ end 
   
 end
