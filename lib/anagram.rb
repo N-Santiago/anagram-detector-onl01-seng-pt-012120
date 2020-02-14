@@ -7,6 +7,6 @@ def initialize(word)
 end 
  
  def match
-   
+   word_array = word.each do |
   
 end
